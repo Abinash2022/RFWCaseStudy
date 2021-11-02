@@ -1,0 +1,4 @@
+${Item};${AddToCart};
+//*[@id="tbodyid"]/div[1]/div/div/h4/a;//a[text() = "Add to cart"];
+//a[text() = "Nokia lumia 1520"];//*[@id="tbodyid"]/div[2]/div/a;
+//a[text() = "Nexus 6"];//*[@id="tbodyid"]/div[2]/div/a;
